@@ -1,0 +1,69 @@
+java.util.Stack 1 java.util.List 0 java.util.Queue 0 
+java.util.Stack 1 
+java.util.NavigableMap 0 java.util.SortedMap 0 java.util.SortedSet 0 java.util.TreeMap 0 
+java.util.NavigableMap 1 java.util.NavigableSet 1 java.util.Map 0 
+java.util.NavigableMap 1 
+java.util.NavigableMap 1 
+java.util.NavigableMap 0 java.util.Map.Entry 0 
+java.util.NavigableMap 1 
+java.util.NavigableMap 0 
+java.util.List 0 java.util.Collection 0 
+java.util.Collection 0 java.util.List 0 
+java.util.List 1 java.util.Collection 0 java.lang.String 0 java.util.Iterator 0 
+java.util.List 1 
+java.lang.Object 0 java.util.List 0 
+java.util.List 0 
+java.util.Collections 0 java.util.Collection 0 java.util.Map 0 
+java.lang.Iterable 1 java.util.Collection 0 
+java.util.List 0 java.util.Collections 0 
+java.util.List 0 java.lang.Comparable 1 
+java.util.List 0 java.lang.String 0 java.lang.Comparable 1 
+java.util.Comparator 1 java.util.Collections 0 java.util.List 0 
+java.util.Comparator 0 
+java.util.Map 0 java.util.Collection 0 
+java.util.Map 1 java.util.HashMap 1 java.util.TreeMap 1 
+java.util.Map 1 
+java.util.Map 0 
+java.lang.Object 0 java.util.Map 0 java.lang.String 0 
+java.util.Map 0 
+java.util.Set 0 java.util.Collection 0 
+java.util.Set 1 java.util.HashSet 0 
+java.util.Collection 0 java.util.Set 1 java.util.HashSet 1 java.util.HashMap 0 java.util.LinkedHashSet 1 
+java.util.TreeSet 1 java.util.Collections 0 java.util.List 0 java.lang.Comparable 0 java.util.Comparator 0 java.util.Set 0 
+java.util.Set 1 java.util.Collection 0 java.lang.String 0 
+java.util.Set 1 
+java.lang.Object 0 java.util.Set 0 
+java.util.Set 0 
+java.util.Queue 0 java.util.Collection 0 java.util.List 0 
+java.util.Collection 0 java.util.Queue 1 java.util.LinkedList 0 java.util.PriorityQueue 1 java.lang.Comparable 0 java.util.Comparator 0 
+java.util.Queue 1 java.util.Collection 0 java.util.Iterator 0 
+java.util.Queue 1 
+java.lang.Object 0 java.util.Queue 0 
+java.util.Queue 0 
+java.util.ArrayList 0 java.lang.String 0 
+java.util.HashMap 0 java.util.HashSet 0 
+java.util.Collections 0 
+java.util.Collections 0 
+java.util.Collections 0 java.lang.Object 0 
+java.util.Deque 1 java.util.Queue 0 
+java.util.Queue 0 java.util.Collection 0 java.util.Deque 1 java.util.LinkedList 0 java.util.ArrayDeque 1 
+java.util.Deque 1 java.util.Iterator 0 
+java.util.Deque 0 
+java.lang.Object 0 java.util.Deque 0 
+java.util.Deque 0 
+java.util.Collection 0 
+java.util.Collection 1 java.util.Set 0 java.util.List 0 
+java.util.Collection 1 
+java.util.Collection 1 
+java.util.Collection 0 
+java.util.Iterator 0 
+java.util.SortedMap 1 java.util.Map 0 java.lang.Comparable 0 java.util.Comparator 0 java.util.SortedSet 0 java.util.TreeMap 0 
+java.util.TreeMap 0 java.util.SortedMap 0 
+java.util.SortedSet 1 java.util.Set 0 java.lang.Comparable 0 java.util.Comparator 0 java.util.TreeSet 1 
+java.util.TreeSet 0 java.util.SortedSet 0 
+java.util.NavigableSet 0 java.util.SortedSet 0 java.util.TreeSet 0 
+java.util.NavigableSet 1 java.util.SortedSet 0 
+java.util.NavigableSet 1 
+java.util.NavigableSet 1 
+java.util.NavigableSet 1 
+java.util.Collections 0 java.lang.String 0 java.util.List 0 java.util.Set 0 

@@ -1,0 +1,41 @@
+org.apache.commons.math3.analysis.solvers.UnivariateSolver 0 org.apache.commons.math3.analysis.solvers.UnivariateDifferentiableSolver 0 org.apache.commons.math3.analysis.solvers.PolynomialSolver 0 
+org.apache.commons.math3.analysis.solvers.BracketingNthOrderBrentSolver 1 org.apache.commons.math3.exception.ConvergenceException 1 
+org.apache.commons.math3.analysis.solvers.BrentSolver 1 org.apache.commons.math3.analysis.solvers.BracketingNthOrderBrentSolver 1 
+org.apache.commons.math3.analysis.solvers.SecantSolver 1 org.apache.commons.math3.analysis.solvers.RegulaFalsiSolver 1 org.apache.commons.math3.analysis.solvers.IllinoisSolver 1 org.apache.commons.math3.analysis.solvers.PegasusSolver 1 org.apache.commons.math3.analysis.solvers.BisectionSolver 1 
+org.apache.commons.math3.analysis.solvers.UnivariateSolver 1 
+org.apache.commons.math3.analysis.interpolation.UnivariateInterpolator 0 org.apache.commons.math3.analysis.UnivariateFunction 0 
+org.apache.commons.math3.analysis.interpolation.HermiteInterpolator 1 org.apache.commons.math3.analysis.interpolation.BivariateGridInterpolator 1 org.apache.commons.math3.analysis.BivariateFunction 0 
+org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolator 1 org.apache.commons.math3.analysis.interpolation.SmoothingPolynomialBicubicSplineInterpolator 1 org.apache.commons.math3.analysis.interpolation.TrivariateGridInterpolator 1 org.apache.commons.math3.analysis.TrivariateFunction 0 
+org.apache.commons.math3.analysis.interpolation.TricubicSplineInterpolator 1 
+org.apache.commons.math3.analysis.integration.UnivariateIntegrator 0 
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction 0 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils 1 
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure 1 org.apache.commons.math3.analysis.differentiation.UnivariateDifferentiableFunction 0 
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure 1 
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure 1 
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure 0 
+org.apache.commons.math3.analysis.differentiation.UnivariateDifferentiableFunction 1 org.apache.commons.math3.analysis.differentiation.DerivativeStructure 0 org.apache.commons.math3.analysis.UnivariateFunction 0 org.apache.commons.math3.analysis.differentiation.UnivariateFunctionDifferentiator 0 
+org.apache.commons.math3.analysis.differentiation.UnivariateFunctionDifferentiator 1 org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiator 1 
+org.apache.commons.math3.complex.Complex 1 org.apache.commons.math3.complex.Complex 0 org.apache.commons.math3.complex.ComplexUtils 0 
+org.apache.commons.math3.complex.Complex 1 org.apache.commons.math3.complex.ComplexUtils 0 
+org.apache.commons.math3.complex.Complex 1 org.apache.commons.math3.complex.ComplexFormat 1 
+org.apache.commons.math3.distribution.AbstractIntegerDistribution 1 
+org.apache.commons.math3.distribution.IntegerDistribution 0 org.apache.commons.math3.distribution.AbstractIntegerDistribution 0 
+org.apache.commons.math3.exception.MathIllegalArgumentException 0 org.apache.commons.math3.exception.MathIllegalStateException 0 org.apache.commons.math3.exception.MathArithmeticException 0 org.apache.commons.math3.exception.MathUnsupportedOperationException 0 
+org.apache.commons.math3.exception.util.ExceptionContext 1 org.apache.commons.math3.exception.util.ExceptionContextProvider 0 
+org.apache.commons.math3.filter.KalmanFilter 1 org.apache.commons.math3.filter.ProcessModel 1 org.apache.commons.math3.filter.MeasurementModel 1 
+org.apache.commons.math3.fraction.Fraction 1 org.apache.commons.math3.fraction.BigFraction 1 
+org.apache.commons.math3.fraction.Fraction 1 org.apache.commons.math3.fraction.FractionFormat 1 
+org.apache.commons.math3.genetics.GeneticAlgorithm 1 org.apache.commons.math3.genetics.StoppingCondition 0 org.apache.commons.math3.genetics.SelectionPolicy 0 org.apache.commons.math3.genetics.MutationPolicy 0 org.apache.commons.math3.genetics.Fitness 0 org.apache.commons.math3.genetics.CrossoverPolicy 0 
+org.apache.commons.math3.genetics.GeneticAlgorithm 1 org.apache.commons.math3.genetics.OnePointCrossover 1 org.apache.commons.math3.genetics.RandomKeyMutation 1 org.apache.commons.math3.genetics.TournamentSelection 1 org.apache.commons.math3.genetics.StoppingCondition 0 org.apache.commons.math3.genetics.FixedGenerationCount 0 
+org.apache.commons.math3.geometry.euclidean.oned.Interval 1 org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet 1 org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet 1 
+org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet 1 org.apache.commons.math3.geometry.euclidean.threed.Vector3D 1 
+org.apache.commons.math3.geometry.euclidean.threed.Vector3DFormat 0 org.apache.commons.math3.geometry.euclidean.threed.Rotation 1 
+org.apache.commons.math3.geometry.euclidean.threed.Rotation 1 
+org.apache.commons.math3.geometry.Space 0 
+org.apache.commons.math3.linear.RealMatrix 1 org.apache.commons.math3.linear.Array2DRowRealMatrix 0 org.apache.commons.math3.linear.BlockRealMatrix 0 org.apache.commons.math3.linear.SparseRealMatrix 0 
+org.apache.commons.math3.linear.RealVector 1 org.apache.commons.math3.linear.RealVectorFormat 0 
+org.apache.commons.math3.linear.DecompositionSolver 1 org.apache.commons.math3.linear.RealMatrix 0 org.apache.commons.math3.linear.RealVector 0 
+org.apache.commons.math3.linear.RealVector 0 
+org.apache.commons.math3.linear.DecompositionSolver 1 
+org.apache.commons.math3.linear.EigenDecomposition 1 org.apache.commons.math3.linear.SingularValueDecomposition 1 
+org.apache.commons.math3.complex.Complex 0 org.apache.commons.math3.fraction.Fraction 0 org.apache.commons.math3.fraction.BigFraction 0 org.apache.commons.math3.util.BigReal 0 

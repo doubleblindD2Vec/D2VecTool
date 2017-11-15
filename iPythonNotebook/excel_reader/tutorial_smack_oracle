@@ -1,0 +1,46 @@
+org.jivesoftware.smackx.Form 1 org.jivesoftware.smackx.FormField 1 
+org.jivesoftware.smackx.Form 1 org.jivesoftware.smackx.FormField 0 
+org.jivesoftware.smackx.Form 1 
+org.jivesoftware.smackx.filetransfer.FileTransferManager 1 
+org.jivesoftware.smackx.filetransfer.OutgoingFileTransfer 1 
+org.jivesoftware.smackx.filetransfer.FileTransferManager 1 org.jivesoftware.smackx.filetransfer.FileTransferListener 1 org.jivesoftware.smackx.filetransfer.FileTransferRequest 0 
+org.jivesoftware.smackx.filetransfer.FileTransferRequest 1 org.jivesoftware.smackx.filetransfer.IncomingFileTransfer 1 
+org.jivesoftware.smackx.filetransfer.IncomingFileTransfer 0 org.jivesoftware.smackx.filetransfer.OutgoingFileTransfer 0 org.jivesoftware.smackx.filetransfer.FileTransfer 1 
+org.jivesoftware.smack.PacketCollector 1 org.jivesoftware.smack.PacketListener 1 org.jivesoftware.smack.Connection 0 org.jivesoftware.smack.filter.PacketFilter 0 
+org.jivesoftware.smack.provider.IQProvider 0 org.jivesoftware.smack.packet.PacketExtension 0 
+org.jivesoftware.smackx.pubsub.PubSubManager 1 
+org.jivesoftware.smackx.pubsub.LeafNode 0 
+org.jivesoftware.smackx.pubsub.Node 1 
+org.jivesoftware.smackx.pubsub.LeafNode 1 
+org.jivesoftware.smackx.pubsub.PubSubManager 1 org.jivesoftware.smackx.pubsub.Node 1 
+org.jivesoftware.smack.Connection 1 org.jivesoftware.smack.debugger.SmackDebugger 0 
+org.jivesoftware.smackx.ServiceDiscoveryManager 1 
+org.jivesoftware.smackx.ServiceDiscoveryManager 1 org.jivesoftware.smackx.NodeInformationProvider 1 
+org.jivesoftware.smackx.ServiceDiscoveryManager 1 org.jivesoftware.smackx.packet.DiscoverItems 0 
+org.jivesoftware.smackx.ServiceDiscoveryManager 1 org.jivesoftware.smackx.packet.DiscoverInfo 0 
+org.jivesoftware.smackx.packet.DiscoverItems 1 org.jivesoftware.smackx.ServiceDiscoveryManager 1 
+org.jivesoftware.smackx.RosterExchangeManager 1 
+org.jivesoftware.smackx.RosterExchangeManager 1 
+org.jivesoftware.smackx.RosterExchangeManager 1 
+org.jivesoftware.smackx.RosterExchangeListener 1 org.jivesoftware.smackx.RosterExchangeManager 0 org.jivesoftware.smack.Connection 0 
+org.jivesoftware.smack.Roster 1 org.jivesoftware.smack.Connection 0 
+org.jivesoftware.smackx.XHTMLText 1 org.jivesoftware.smackx.XHTMLManager 1 
+org.jivesoftware.smack.Chat 0 org.jivesoftware.smack.Connection 0 
+org.jivesoftware.smackx.XHTMLManager 1 
+org.jivesoftware.smackx.XHTMLManager 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 org.jivesoftware.smackx.muc.InvitationListener 0 org.jivesoftware.smackx.muc.InvitationRejectionListener 0 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 org.jivesoftware.smack.Chat 0 
+org.jivesoftware.smackx.muc.MultiUserChat 1 org.jivesoftware.smackx.muc.SubjectUpdatedListener 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 org.jivesoftware.smackx.muc.ParticipantStatusListener 1 org.jivesoftware.smackx.muc.UserStatusListener 1 org.jivesoftware.smackx.muc.DefaultUserStatusListener 0 org.jivesoftware.smackx.muc.DefaultParticipantStatusListener 0 
+org.jivesoftware.smackx.muc.MultiUserChat 1 
+org.jivesoftware.smackx.muc.MultiUserChat 1 org.jivesoftware.smackx.muc.ParticipantStatusListener 1 org.jivesoftware.smackx.muc.UserStatusListener 1 org.jivesoftware.smackx.muc.DefaultUserStatusListener 0 org.jivesoftware.smackx.muc.DefaultParticipantStatusListener 0 
+org.jivesoftware.smack.Chat 0 
+org.jivesoftware.smackx.MessageEventManager 1 
+org.jivesoftware.smackx.DefaultMessageEventRequestListener 1 org.jivesoftware.smackx.MessageEventManager 1 org.jivesoftware.smack.Connection 0 org.jivesoftware.smackx.MessageEventRequestListener 0 
+org.jivesoftware.smackx.DefaultMessageEventRequestListener 0 org.jivesoftware.smackx.MessageEventManager 0 
+org.jivesoftware.smackx.MessageEventNotificationListener 1 org.jivesoftware.smackx.MessageEventManager 1 org.jivesoftware.smack.Connection 0 

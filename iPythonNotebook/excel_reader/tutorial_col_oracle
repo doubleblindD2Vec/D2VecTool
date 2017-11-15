@@ -1,0 +1,57 @@
+java.util.Collections 0 java.util.List 0 java.util.Collection 0 
+java.util.Collections 1 java.util.List 1 
+java.util.Collections 1 java.util.Comparator 1 java.util.List 0 
+java.util.Map 0 java.util.List 1 java.util.Comparator 0 
+java.util.Collections 1 java.util.List 0 java.awt.CardLayout 0 java.util.Random 0 
+java.util.Collections 0 java.util.List 0 java.util.Collection 0 
+java.util.Collections 1 java.util.List 0 java.util.Comparator 0 
+java.util.List 0 java.util.Collections 0 
+java.util.Collections 0 
+java.util.Collections 1 java.util.Collection 1 java.util.Comparator 0 
+java.util.Collection 0 
+java.util.Collection 1 java.util.Map 0 java.util.ArrayList 0 java.util.HashMap 0 java.lang.Integer 0 
+java.util.Arrays 0 java.util.AbstractList 1 java.util.AbstractCollection 1 java.util.ListIterator 0 
+java.util.Arrays 0 java.util.AbstractCollection 0 java.util.Collection 0 java.util.Set 0 java.util.AbstractList 1 java.util.AbstractSet 0 java.util.AbstractSequentialList 0 java.util.AbstractQueue 0 java.util.AbstractMap 1 java.util.Map 0 
+java.util.Arrays 0 java.lang.UnsupportedOperationException 0 java.util.Collection 0 
+java.util.Collections 1 java.util.ArrayList 0 java.util.Collection 0 
+java.util.Set 1 java.util.Collections 1 java.util.Collection 1 java.util.Map 1 
+java.util.Set 0 java.util.List 0 java.util.Map 0 java.util.Collections 0 java.util.Collection 0 
+java.util.Deque 0 java.util.Collections 0 
+java.util.Deque 1 java.util.LinkedList 1 java.util.ArrayDeque 1 
+java.util.Deque 1 java.util.concurrent.LinkedBlockingDeque 1 
+java.util.Set 0 java.util.HashSet 0 java.util.TreeSet 0 java.util.LinkedHashSet 0 java.util.List 0 java.util.ArrayList 0 java.util.Queue 0 java.util.Deque 0 java.util.ArrayDeque 0 java.util.LinkedList 0 java.util.Map 0 java.util.HashMap 0 java.util.TreeMap 0 java.util.LinkedHashMap 0 java.util.SortedSet 0 java.util.SortedMap 0 java.util.PriorityQueue 0 
+java.io.Serializable 0 java.util.Vector 0 java.util.Hashtable 0 
+java.util.concurrent.BlockingQueue 1 java.util.concurrent.ConcurrentMap 1 java.util.Map 0 java.math.BigInteger 0 java.util.Collection 0 
+java.util.List 1 java.util.ArrayList 1 java.util.LinkedList 1 
+java.util.ArrayList 1 java.util.LinkedList 0 
+java.util.List 1 java.util.concurrent.CopyOnWriteArrayList 1 java.util.concurrent.CopyOnWriteArraySet 0 java.util.ConcurrentModificationException 0 java.util.ArrayList 0 java.util.Collections 0 java.util.Vector 1 java.util.Arrays 0 
+java.util.Map 0 
+java.util.Map 1 java.util.HashMap 0 java.util.TreeMap 0 java.util.LinkedHashMap 1 java.util.SortedMap 0 java.util.Collection 0 java.util.Set 0 java.util.LinkedHashSet 0 
+java.util.Map 1 java.util.EnumMap 1 java.util.WeakHashMap 1 java.util.IdentityHashMap 0 
+java.util.IdentityHashMap 1 java.util.Map 0 
+java.util.Map 0 java.util.concurrent.ConcurrentMap 1 java.util.concurrent.ConcurrentHashMap 1 java.util.Hashtable 0 
+java.util.Set 1 java.util.Map 0 java.util.HashSet 0 java.util.ArrayList 0 java.util.LinkedList 0 java.util.HashMap 0 java.util.TreeSet 0 java.util.Comparator 0 java.util.Collections 0 
+java.io.File.length 0 java.util.ArrayList 0 
+java.util.Queue 1 java.util.LinkedList 0 java.util.PriorityQueue 1 java.util.Comparator 0 java.util.ArrayList 0 java.util.Collection 0 java.util.Arrays 0 
+java.awt.Queue 0 java.util.concurrent.BlockingQueue 1 java.util.concurrent.LinkedBlockingQueue 0 java.util.concurrent.ArrayBlockingQueue 0 java.util.concurrent.PriorityBlockingQueue 0 java.util.concurrent.DelayQueue 0 java.util.concurrent.SynchronousQueue 0 java.util.concurrent.SynchronousQueue.TransferQueue 0 java.util.ArrayList 0 
+java.util.Set 0 
+java.util.Set 0 java.util.HashSet 1 java.util.TreeSet 1 java.util.LinkedHashSet 1 java.util.SortedSet 0 
+java.util.HashSet 1 java.util.ArrayList 0 
+java.util.HashSet 1 java.util.LinkedHashSet 0 java.util.TreeSet 0 
+java.util.Set 1 java.util.EnumSet 1 java.util.concurrent.CopyOnWriteArraySet 1 
+java.util.Set 0 java.util.HashSet 0 java.util.List 0 java.util.ArrayList 0 java.util.Map 0 java.util.HashMap 0 java.util.Queue 0 java.util.LinkedList 0 java.util.Deque 0 java.util.ArrayDeque 0 
+java.util.Collections 0 java.util.Collection 0 
+java.util.Collections 0 
+java.util.Collection 1 java.util.Set 0 java.util.Map 0 java.util.SortedSet 0 java.util.SortedMap 0 java.util.Vector 0 
+java.util.Collection 0 java.util.Map 0 java.util.ArrayList 0 
+java.lang.UnsupportedOperationException 0 java.util.Collection 0 
+java.util.Collections 0 java.lang.ClassCastException 0 
+java.util.Set 0 java.util.Collection 0 java.util.Map 0 java.util.List 0 
+java.util.Collection 0 
+java.util.SortedMap 1 java.util.Map 0 
+java.util.Vector 0 java.util.Hashtable 0 java.util.Enumeration 0 
+java.util.Collection 0 java.util.Arrays 0 java.util.Vector 0 java.util.Hashtable 0 java.util.Map 0 java.util.Enumeration 0 java.util.Collections 0 
+java.util.Collection 1 java.lang.Object 0 java.util.Vector 0 java.lang.String 0 java.util.Hashtable 0 
+java.util.Enumeration 0 java.util.Collections 0 java.util.Collection 0 
+java.util.Collections 0 
+java.util.Collections 0 
